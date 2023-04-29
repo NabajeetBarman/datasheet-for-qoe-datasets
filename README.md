@@ -6,27 +6,27 @@ Over the years, many subjective and objective quality assessment datasets have b
 
 This work addresses this simple but significant gap by proposing a datasheet template for documenting various aspects of subjective and objective quality assessment datasets for multimedia data. The contributions presented in this work aim to simplify the documentation process for existing and new datasets and improve their reproducibility.
 
-For more details, please check the paper here.
+More details can be found in the paper here.
 
 ## Datasheet Template
 
 The datasheet template can be accessed in any of the below formats:
 
-- `Google Sheet (please use "make a copy" to get a local copy with edit rights)`
-- `MS Excel (.xlsx)`
-- `OpenDocument Spreadsheet (.ods)`
+- [Google Sheet](https://docs.google.com/spreadsheets/d/1DJAuefveWRWUdR8nQvkDGdfURq_m9yU5NragTPW2Y0w/edit?usp=sharing) (please use "make a copy" to get a local copy with edit rights)
+- [MS Excel](https://github.com/NabajeetBarman/datasheet-for-qoe-datasets/blob/main/Datasheet%20for%20QoE%20Datasets%20v1.0.xlsx)
+- [OpenDocument Spreadsheet](https://github.com/NabajeetBarman/datasheet-for-qoe-datasets/blob/main/Datasheet%20for%20QoE%20Datasets%20v1.0.ods)
 
 The above three formats allow the user to easily fill in the various fields. However, if neither of these formats work for you for any reason, please refer to the following two formats to reproduce the datasheet template in a desired format:
-- `MS Word`
-- `PDF`
+- [HTML](https://github.com/NabajeetBarman/datasheet-for-qoe-datasets/blob/main/Datasheet%20for%20QoE%20Datasets%20v1.0.html) 
+- [PDF](https://github.com/NabajeetBarman/datasheet-for-qoe-datasets/blob/main/Datasheet%20for%20QoE%20Datasets%20v1.0.pdf)
 
-If you are still facing difficulty with the usage of the dataset, please contact Nabajeet Barman (nabajeetbarman4@gmail.com).
+If you are still facing difficulty in using the datasheet, please contact Nabajeet Barman (nabajeetbarman4@gmail.com).
 
 ## Example Datasheets
 
 In order to aid the process of datasheet creation and easier understanding of the various fields of the datasheet, we provide example datasheet for the following open-source datasets:
 
-- `GamingVideoSET`
+- [GamingVideoSET](https://docs.google.com/spreadsheets/d/1VdD1A6xUQT31KShFJ-NoKwQ6K77wanB71PfKUicesRI/edit?usp=sharing)
 - `AVT-VQDB-UHD1`
 - `BC-KU Multi-Screen Dataset`
 
@@ -39,20 +39,21 @@ If you have any suggestions/comments on the datasheet template, please contact t
 
 If you use this datasheet in your research, we kindly ask that you to cite our papers listed below:
 
-`Nabajeet Barman and Yuriy Reznik. 2023. Datasheet for Subjective and Objective Quality Assessment Datasets. In Proceedings of the 15th International Conference on Quality of Multimedia Experience (QoMEX'23). IEEE, submitted.`
+`Nabajeet Barman, Yuriy Reznik and Maria Martini. 2023. Datasheet for Subjective and Objective Quality Assessment Datasets. In Proceedings of the 15th International Conference on Quality of Multimedia Experience (QoMEX'23). IEEE, submitted.`
 
 ## Contact/Authors
 
 - Dr Nabajeet Barman, Brightcove UK Ltd and Kingston University, London, United Kingdom (nbarman@brightcove.com, nabajeetbarman4@gmail.com)
 - Dr Yuriy Reznik, Brightcove Inc, Seattle, USA  (yreznik@brightcove.com)
+- Prof Maria Martini, Kingston University, London, United Kingdom (m.martini@kingston.ac.uk)
 
 ## Related Works
 
 This work is inspired by the following two papers:
 
-`Timnit Gebru, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan, Hanna Wallach, Hal Daumé III, and Kate Crawford. 2021. Datasheets for datasets. Commun. ACM 64, 12 (December 2021), 86–92`. https://doi.org/10.1145/3458723
+`Gebru et al., Datasheets for datasets. Commun. ACM 64, 12 (December 2021), 86–92`. https://doi.org/10.1145/3458723
 
-`Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, and Timnit Gebru. 2019. Model Cards for Model Reporting. In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT* '19). Association for Computing Machinery, New York, NY, USA, 220–229`. https://doi.org/10.1145/3287560.3287596
+`Mitchell et al., 2019. Model Cards for Model Reporting. In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT* '19). Association for Computing Machinery, New York, NY, USA, 220–229`. https://doi.org/10.1145/3287560.3287596
 
 ## Copyright
 
