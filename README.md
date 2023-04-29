@@ -4,15 +4,15 @@
 
 Over the years, many subjective and objective quality assessment datasets have been created and made available to the research community. However, there is no standard process for documenting the various aspects of the dataset, such as details about the source sequences, number of test subjects, test methodology, encoding settings, etc. Such information is often of great importance to the end-user of the dataset as it can help them get a quick understanding of the motivation and scope of the dataset. Without such a template, it is left to each reader to collate the information from the relevant publication or website, which is a tedious and time-consuming process. In some cases, the absence of a template to guide the documentation process can result in an unintentional omission of some important information. 
 
-This work addresses this simple but significant gap by proposing a datasheet template for documenting various aspects of subjective and objective quality assessment datasets for multimedia data. The contributions presented in this work aim to simplify the documentation process for existing and new datasets and improve their reproducibility.
+We addresses this simple but significant gap by proposing a datasheet template for documenting various aspects of subjective and objective quality assessment datasets for multimedia data. The template presented in this work aim to simplify the documentation process for existing and new datasets and improve their reproducibility.
 
-More details can be found in the paper here.
+More details can be found in the paper [here](https://drive.google.com/file/d/1E1C8sWk-IYGCmqRRv6tclmtNgtWrhM-8/view?usp=sharing).
 
 ## Datasheet Template
 
 The datasheet template can be accessed in any of the below formats:
 
-- [Google Sheet](https://docs.google.com/spreadsheets/d/1DJAuefveWRWUdR8nQvkDGdfURq_m9yU5NragTPW2Y0w/edit?usp=sharing) (please use "make a copy" to get a local copy with edit rights)
+- [Google Sheet](https://docs.google.com/spreadsheets/d/1DJAuefveWRWUdR8nQvkDGdfURq_m9yU5NragTPW2Y0w/edit?usp=sharing) (please use "File --> make a copy" to get a local copy with edit rights)
 - [MS Excel](https://github.com/NabajeetBarman/datasheet-for-qoe-datasets/blob/main/Datasheet%20for%20QoE%20Datasets%20v1.0.xlsx)
 - [OpenDocument Spreadsheet](https://github.com/NabajeetBarman/datasheet-for-qoe-datasets/blob/main/Datasheet%20for%20QoE%20Datasets%20v1.0.ods)
 
@@ -33,11 +33,11 @@ In order to aid the process of datasheet creation and easier understanding of th
 ### Contributing
 If you create a datasheet using this template for any dataset not mentioned above, please share the same with Nabajeet Barman (nabajeetbarman4@gmail.com) to be added to this list.
 
-If you have any suggestions/comments on the datasheet template, please contact the authors.
+If you have any suggestions/comments/corrections, please contact the authors.
 
 ## Citation
 
-If you use this datasheet in your research, we kindly ask that you to cite our papers listed below:
+If you use this datasheet in your research, we kindly ask that you to cite our paper listed below:
 
 `Nabajeet Barman, Yuriy Reznik and Maria Martini. 2023. Datasheet for Subjective and Objective Quality Assessment Datasets. In Proceedings of the 15th International Conference on Quality of Multimedia Experience (QoMEX'23). IEEE, submitted.`
 
@@ -59,8 +59,8 @@ This work is inspired by the following two papers:
 
 Copyright (c) 2022 Kingston University, London and Brightcove UK Ltd 
 All rights reserved. 
-Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute this datasheet template and its documentation for any purpose, provided that the copyright notice in its entirety appear in all copies of this database, and the original source of this database, Kingston University, London and Brightcove UK Ltd, is acknowledged in any publication that reports research using this database.
+Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute this datasheet template and its documentation for any purpose, provided that the copyright notice in its entirety appear in all copies of this datasheet, and the original source of this datasheet, Kingston University, London and Brightcove UK Ltd, is acknowledged in any publication that reports research using this datasheet.
 
-IN NO EVENT SHALL THE KINGSTON UNIVERSITY AND BRIGHTCOVE UK LTD BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THIS DATABASE AND ITS DOCUMENTATION, EVEN IF THE KINGSTON UNIVERSITY, LONDON AND BRIGHTCOVE UK LTD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+IN NO EVENT SHALL THE KINGSTON UNIVERSITY AND BRIGHTCOVE UK LTD BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THIS DATASHEET AND ITS DOCUMENTATION, EVEN IF THE KINGSTON UNIVERSITY, LONDON AND BRIGHTCOVE UK LTD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
 
-THE KINGSTON UNIVERSITY AND BRIGHTCOVE UK LTD SPECIFICALLY DISCLAIM ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE DATABASE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND THE KINGSTON UNIVERSITY, LONDON AND BRIGHTCOVE UK LTD HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
+THE KINGSTON UNIVERSITY AND BRIGHTCOVE UK LTD SPECIFICALLY DISCLAIM ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE DATASHEE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND THE KINGSTON UNIVERSITY, LONDON AND BRIGHTCOVE UK LTD HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
