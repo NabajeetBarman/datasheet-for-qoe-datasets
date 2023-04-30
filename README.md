@@ -26,7 +26,7 @@ If you are still facing difficulty in using the datasheet, please contact Nabaje
 
 In order to aid the process of datasheet creation and easier understanding of the various fields of the datasheet, we provide example datasheet for the following open-source datasets:
 
-- [GamingVideoSET](https://docs.google.com/spreadsheets/d/1VdD1A6xUQT31KShFJ-NoKwQ6K77wanB71PfKUicesRI/edit?usp=sharing)
+- [GamingVideoSET](https://docs.google.com/spreadsheets/d/1jGOZ6hCl5goQhJkumQxDyoNM-Q6Y8VipML_BQ-6NtJU/edit?usp=sharing)
 - `AVT-VQDB-UHD1`
 - `BC-KU Multi-Screen Dataset`
 
