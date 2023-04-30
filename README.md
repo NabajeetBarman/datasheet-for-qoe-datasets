@@ -17,7 +17,7 @@ The datasheet template can be accessed in any of the below formats:
 - [OpenDocument Spreadsheet](https://github.com/NabajeetBarman/datasheet-for-qoe-datasets/blob/main/Datasheet%20for%20QoE%20Datasets%20v1.0.ods)
 
 The above three formats allow the user to easily fill in the various fields. However, if neither of these formats work for you for any reason, please refer to the following two formats to reproduce the datasheet template in a desired format:
-- [HTML](https://github.com/NabajeetBarman/datasheet-for-qoe-datasets/blob/main/Datasheet%20for%20QoE%20Datasets%20v1.0.html) 
+- [HTML](https://htmlpreview.github.io/?https://github.com/NabajeetBarman/datasheet-for-qoe-datasets/blob/main/Datasheet%20for%20QoE%20Datasets%20v1.0.html) 
 - [PDF](https://github.com/NabajeetBarman/datasheet-for-qoe-datasets/blob/main/Datasheet%20for%20QoE%20Datasets%20v1.0.pdf)
 
 If you are still facing difficulty in using the datasheet, please contact Nabajeet Barman (nabajeetbarman4@gmail.com).
