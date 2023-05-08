@@ -27,8 +27,8 @@ If you are still facing difficulty in using the datasheet, please contact Nabaje
 In order to aid the process of datasheet creation and easier understanding of the various fields of the datasheet, we provide example datasheet for the following open-source datasets:
 
 - [GamingVideoSET](https://docs.google.com/spreadsheets/d/1jGOZ6hCl5goQhJkumQxDyoNM-Q6Y8VipML_BQ-6NtJU/edit?usp=sharing)
-- [AVT-VQDB-UHD1](https://docs.google.com/spreadsheets/d/12eXDMJoubk7uQs5WVTSdQuAVG6XMIfE0wUBsZLbqvpc/edit?usp=sharing)
-- `BC-KU Multi-Screen Dataset`
+- [AVT-VQDB-UHD1](https://docs.google.com/spreadsheets/d/1A01x76yST3z_tT49SukQyt102pPniQFT1f-VTL9lquA/edit?usp=sharing)
+- [BC-KU Multi-Screen Dataset](https://docs.google.com/spreadsheets/d/1GfvYSQC1zo14JGOfp9S-rkFQLnIVSYvp9NeTVXJhnzM/edit?usp=sharing)
 
 ### Contributing
 If you create a datasheet using this template for any dataset not mentioned above, please share the same with Nabajeet Barman (nabajeetbarman4@gmail.com) to be added to this list.
@@ -39,7 +39,14 @@ If you have any suggestions/comments/corrections, please contact the authors.
 
 If you use this datasheet in your research, we kindly ask that you to cite our paper listed below:
 
-`Nabajeet Barman, Yuriy Reznik and Maria Martini. 2023. Datasheet for Subjective and Objective Quality Assessment Datasets. In Proceedings of the 15th International Conference on Quality of Multimedia Experience (QoMEX'23). IEEE, submitted.`
+`@misc{barman2023datasheet,
+      title={Datasheet for Subjective and Objective Quality Assessment Datasets}, 
+      author={Nabajeet Barman and Yuriy Reznik and Maria Martini},
+      year={2023},
+      eprint={2305.02142},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM}
+}`
 
 ## Contact/Authors
 
