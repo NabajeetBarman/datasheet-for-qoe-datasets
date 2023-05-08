@@ -43,7 +43,7 @@ If you use this datasheet in your research, we kindly ask that you to cite our p
 
 ## Contact/Authors
 
-- Dr Nabajeet Barman, Brightcove UK Ltd and Kingston University, London, United Kingdom (nbarman@brightcove.com, nabajeetbarman4@gmail.com)
+- Dr Nabajeet Barman, Kingston University, London, United Kingdom (n.barman@ieee.org, nabajeetbarman4@gmail.com)
 - Dr Yuriy Reznik, Brightcove Inc, Seattle, USA  (yreznik@brightcove.com)
 - Prof Maria Martini, Kingston University, London, United Kingdom (m.martini@kingston.ac.uk)
 
@@ -57,10 +57,10 @@ This work is inspired by the following two papers:
 
 ## Copyright
 
-Copyright (c) 2022 Kingston University, London and Brightcove UK Ltd 
+Copyright (c) 2022 Kingston University, London 
 All rights reserved. 
-Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute this datasheet template and its documentation for any purpose, provided that the copyright notice in its entirety appear in all copies of this datasheet, and the original source of this datasheet, Kingston University, London and Brightcove UK Ltd, is acknowledged in any publication that reports research using this datasheet.
+Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute this datasheet template and its documentation for any purpose, provided that the copyright notice in its entirety appear in all copies of this datasheet, and the original source of this datasheet, Kingston University, London, is acknowledged in any publication that reports research using this datasheet.
 
-IN NO EVENT SHALL THE KINGSTON UNIVERSITY AND BRIGHTCOVE UK LTD BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THIS DATASHEET AND ITS DOCUMENTATION, EVEN IF THE KINGSTON UNIVERSITY, LONDON AND BRIGHTCOVE UK LTD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+IN NO EVENT SHALL THE KINGSTON UNIVERSITY LONDON LTD BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THIS DATASHEET AND ITS DOCUMENTATION, EVEN IF THE KINGSTON UNIVERSITY, LONDON HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
 
-THE KINGSTON UNIVERSITY AND BRIGHTCOVE UK LTD SPECIFICALLY DISCLAIM ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE DATASHEE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND THE KINGSTON UNIVERSITY, LONDON AND BRIGHTCOVE UK LTD HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
+THE KINGSTON UNIVERSITY SPECIFICALLY DISCLAIM ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE DATASHEE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND THE KINGSTON UNIVERSITY, LONDON HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
