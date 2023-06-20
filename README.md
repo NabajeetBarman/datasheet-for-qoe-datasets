@@ -9,6 +9,9 @@ We addresses this simple but significant gap by proposing a datasheet template f
 More details can be found in the paper [here](https://drive.google.com/file/d/1E1C8sWk-IYGCmqRRv6tclmtNgtWrhM-8/view?usp=sharing).
 The poster presented in QoMEX'23 is available [here.](https://drive.google.com/file/d/1Z0TYObfiS8Jy3a_UExPRax1ERtZJG6eB/view?usp=sharing)
 
+## Motivation
+![image](https://github.com/NabajeetBarman/datasheet-for-qoe-datasets/assets/48479111/f1538a58-78dc-416b-ac39-b1bd2a98332a)
+
 ## Datasheet Template
 
 The datasheet template can be accessed in any of the below formats (**use the google sheet version if you can**):
