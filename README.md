@@ -7,6 +7,7 @@ Over the years, many subjective and objective quality assessment datasets have b
 We addresses this simple but significant gap by proposing a datasheet template for documenting various aspects of subjective and objective quality assessment datasets for multimedia data. The template presented in this work aim to simplify the documentation process for existing and new datasets and improve their reproducibility.
 
 More details can be found in the paper [here](https://drive.google.com/file/d/1E1C8sWk-IYGCmqRRv6tclmtNgtWrhM-8/view?usp=sharing).
+The poster presented in QoMEX'23 is available [here.](https://drive.google.com/file/d/1Z0TYObfiS8Jy3a_UExPRax1ERtZJG6eB/view?usp=sharing)
 
 ## Datasheet Template
 
