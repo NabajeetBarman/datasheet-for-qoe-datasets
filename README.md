@@ -11,7 +11,7 @@ The poster presented in QoMEX'23 is available [here.](https://drive.google.com/f
 
 ## Datasheet Template
 
-The datasheet template can be accessed in any of the below formats:
+The datasheet template can be accessed in any of the below formats (**use the google sheet version if you can**):
 
 - [Google Sheet](https://docs.google.com/spreadsheets/d/1DJAuefveWRWUdR8nQvkDGdfURq_m9yU5NragTPW2Y0w/edit?usp=sharing) (please use "File --> make a copy" to get a local copy with edit rights) A slightly updated version is available [here](https://docs.google.com/spreadsheets/d/1f4_scXs51OBCCTVRLkEBkL0kel_RJVkigzCwKnAXmBw/edit?usp=sharing)
 - [MS Excel](https://github.com/NabajeetBarman/datasheet-for-qoe-datasets/blob/main/Datasheet%20for%20QoE%20Datasets%20v1.0.xlsx)
